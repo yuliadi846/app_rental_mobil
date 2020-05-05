@@ -1,2 +1,2 @@
 # app_rental_mobil
-Kumpulan project UAS 
+penunjang keperluan bisnis (program layanan konsumen)
